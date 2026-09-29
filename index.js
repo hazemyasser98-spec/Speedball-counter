@@ -1,3 +1,4 @@
+alert("JS is working")
 let hit = document.getElementById("hits-btn")
 let count = document.getElementById("count-el")
 let save = document.getElementById("save-btn")
